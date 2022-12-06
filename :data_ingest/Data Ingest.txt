@@ -1,0 +1,9 @@
+Step 1: Go to https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2023/pvqr-7yc4/data
+Step 2: Click Filter
+Step 3: Under filter, add new filter condition
+Step 4: Select "Violation Code" "is" and input 36
+Step 5: Go to Export
+Step 6: In download, select "CSV"
+Step 7: Run the following command on terminal scp /Users/axu/Downloads/Parking_Violations_Issued_-_Fiscal_Year_2023.csv   acx202@peel.hpc.nyu.edu:/home/acx202
+
+Step 8: Use it as input file for data cleaning
