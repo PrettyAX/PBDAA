@@ -1,7 +1,7 @@
 # PBDAA
 Processing Big Data's project Github
 
-Input data can be found at /home/acx202/Parking_Violations_Issued_-_Fiscal_Year_2023.csv
+Input data can be found at https://drive.google.com/drive/folders/1CjKiYl9HyyGgXZOte1Bvp6z-LoFei4iu?usp=sharing
 
 The input data is the raw data that was downloaded from the website stated in data ingestion. After is data cleaning
 For Data Cleaning:
